@@ -1,0 +1,45 @@
+body{
+    height: 100vh;
+}
+
+#img-back{
+    background-image: url("img/77eba96f-451f-41a9-a880-2ccb965e1926.png");
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#content-box{
+    background-color: rgba(184, 210, 239, 0.585);
+    
+}
+
+h1,h2,p{
+    color: #fff;
+    text-align: center;
+}
+
+#form{
+    background-color: rgba(44, 75, 111, 0.8);
+    width: 600px;
+    height: 90vh;
+    margin: 0 auto; 
+    margin-top: 50px;
+
+}
+
+label{
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+form{
+    margin: 10%;
+    padding-top: 30px;
+}
+
+.btn{
+    background-color: rgb(6, 208, 6);
+    color: #fff;
+    padding: 1px 210px;
+}
+
